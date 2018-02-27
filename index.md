@@ -9,11 +9,11 @@
 在这里我不仅认识了许多程序猿，有时候我也会和他们一起写一写，改一改bug。  
 
 ### 本人参与过的开源项目
-\[待更新\]
+\[待更新\]  
 
 ### 本人目前开发中的项目
-[VPP - XciEngine的前端界面](https://github.com/XAS-712/VPP)
-[XciEngine - 使用神经网络进行语音合成](https://github.com/XAS-712/XciEngine)
+[VPP - XciEngine的前端界面](https://github.com/XAS-712/VPP)  
+[XciEngine - 使用神经网络进行语音合成](https://github.com/XAS-712/XciEngine)  
 
 ### 本人的实验日志
-[点此展开](explog/)
+[点此展开](explog/)  
