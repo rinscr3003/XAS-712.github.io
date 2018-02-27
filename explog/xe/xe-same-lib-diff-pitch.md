@@ -5,14 +5,14 @@
 
 ### 实验过程
 1. 用V4 Editor生成一段YANHE的声音（参数见图，未呈现者为默认）
-![合成设定](/asset/explog/xe/img001.png)
+![合成设定](/asset/explog/xe/img001.PNG)
 
 2. 导入Audition CC删除前后空白并标准化
-![删去前后空白](/asset/explog/xe/img002.png)
-![标准化](/asset/explog/xe/img003.png)
+![删去前后空白](/asset/explog/xe/img002.PNG)
+![标准化](/asset/explog/xe/img003.PNG)
 
 3. 转到频谱图
-![频谱图](/asset/explog/xe/img004.png)
+![频谱图](/asset/explog/xe/img004.PNG)
 
 
 ### 实验结论
