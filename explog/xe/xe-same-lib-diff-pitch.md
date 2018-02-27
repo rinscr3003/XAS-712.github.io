@@ -11,8 +11,13 @@
 ![删去前后空白](/asset/explog/xe/img002.PNG)
 ![标准化](/asset/explog/xe/img003.PNG)
 
-3. 转到频谱图
-![频谱图](/asset/explog/xe/img004.PNG)
+3. 转到频谱图和音高图
+![频谱图](/asset/explog/xe/img004.PNG)  
+![音高图](/asset/explog/xe/img005.PNG)
+![C3的a音频谱图](/asset/explog/xe/img006.PNG)
 
+4. 频率分析
+![频率分析图 线性](/asset/explog/xe/img007.PNG)
+![频率分析图 对数](/asset/explog/xe/img008.PNG)
 
 ### 实验结论
