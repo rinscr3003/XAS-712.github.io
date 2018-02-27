@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## XAS-712的茶楼时光
 
-You can use the [editor on GitHub](https://github.com/XAS-712/XAS-712.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+本人14年在闲逛时无意发现了一家茶楼，便走了进去。
+这家茶楼装修还算精致，能算是非常大的茶楼了，里面能坐下2000多万人。也许，说是第一大的也不为过吧。  
+平日里只是偶尔去看看，有时还拿回几包茶叶研究。  
+16年我注册为茶楼的会员，于是在日常来喝茶时也认识了许许多多的程序猿。  
+他们之中，有水平很厉害的，他的名字在编程界人人皆知；也有名不见经传，但开发了一些开源软件被大家使用、认可；  
+还有些呢，就是像我这样，挺喜欢写些小程序，并没有什么名气，也只能看着公开仓库就像私有的一样无人知晓。  
+在这里我不仅认识了许多程序猿，有时候我也会和他们一起写一写，改一改bug。  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 本人参与过的开源项目
+\[待更新\]
 
-### Markdown
+### 本人目前开发中的项目
+[VPP - XciEngine的前端界面](https://github.com/XAS-712/VPP)
+[XciEngine - 使用神经网络进行语音合成](https://github.com/XAS-712/XciEngine)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XAS-712/XAS-712.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 本人的实验日志
+[点此展开](explog)
