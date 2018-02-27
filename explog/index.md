@@ -5,6 +5,6 @@
 ### 实验日志（第 1 页）
 <<<上一页 [下一页>>>](index.2.md)
 
-1. [\[XE\] 同一声库不同音高的实验](xe-same-lib-diff-pitch.md)
-2. [\[XE\] 同一声库不同GEN的实验](xe-same-lib-diff-gen.md)
-3. [\[XE\] 同一声库不同颤音的实验](xe-same-lib-diff-vib.md)
+1. [\[XE\] 同一声库不同音高的实验](xe/xe-same-lib-diff-pitch.md)
+2. [\[XE\] 同一声库不同GEN的实验](xe/xe-same-lib-diff-gen.md)
+3. [\[XE\] 同一声库不同颤音的实验](xe/xe-same-lib-diff-vib.md)
