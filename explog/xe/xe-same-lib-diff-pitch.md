@@ -39,14 +39,23 @@
 ![音高图](/asset/explog/xe/img014.PNG)
 
 4. 频率分析
+频率分析图 线性
 ![频率分析图 线性](/asset/explog/xe/img015.PNG)
+频率分析图 对数
 ![频率分析图 对数](/asset/explog/xe/img016.PNG)
+频率分析图 对数C3
 ![频率分析图 对数C3](/asset/explog/xe/img017.PNG)
+频率分析图 对数D3
 ![频率分析图 对数D3](/asset/explog/xe/img018.PNG)
+频率分析图 对数G3
 ![频率分析图 对数G3](/asset/explog/xe/img019.PNG)
+频率分析图 对数A2
 ![频率分析图 对数A2](/asset/explog/xe/img020.PNG)
+频率分析图 对数C3与G3
 ![频率分析图 对数C3与G3](/asset/explog/xe/img021.PNG)
+频率分析图 对数C3与D3
 ![频率分析图 对数C3与D3](/asset/explog/xe/img022.PNG)
+频率分析图 对数C3与A2
 ![频率分析图 对数C3与A2](/asset/explog/xe/img023.PNG)
 
 ##### 反思与总结
@@ -64,15 +73,25 @@
 ![频谱图5](/asset/explog/xe/img027.PNG)  
 
 4. 频率分析
+频率分析图 线性
 ![频率分析图 线性](/asset/explog/xe/img028.PNG)
+频率分析图 对数
 ![频率分析图 对数](/asset/explog/xe/img029.PNG)
+频率分析图 对数C3
 ![频率分析图 对数C3](/asset/explog/xe/img017.PNG)
+频率分析图 对数C2
 ![频率分析图 对数C2](/asset/explog/xe/img031.PNG)
+频率分析图 对数C4
 ![频率分析图 对数C4](/asset/explog/xe/img032.PNG)
+频率分析图 对数C5
 ![频率分析图 对数C5](/asset/explog/xe/img033.PNG)
+频率分析图 对数C3与C2
 ![频率分析图 对数C3与C2](/asset/explog/xe/img030.PNG)
+频率分析图 对数C3与C4
 ![频率分析图 对数C3与C4](/asset/explog/xe/img034.PNG)
+频率分析图 对数C3与C5
 ![频率分析图 对数C3与C5](/asset/explog/xe/img035.PNG)
+频率分析图 对数C4与C5
 ![频率分析图 对数C4与C5](/asset/explog/xe/img036.PNG)
 
 ##### 反思与总结
