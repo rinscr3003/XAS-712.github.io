@@ -25,6 +25,33 @@
 1. 未将颤音设为0%，容易对频率分析产生干扰
 2. V4编辑器可能做了自动连音处理，导致下一个音并不是独立的
 
+#### 第二次实验
+1. 用V4 Editor生成一段YANHE的声音（参数见图，未呈现者为默认）
+![合成设定](/asset/explog/xe/img009.PNG)
+
+2. 导入Audition CC删除前后空白并标准化
+![删空白并标准化](/asset/explog/xe/img010.PNG)
+
+3. 转到频谱图和音高图
+![频谱图](/asset/explog/xe/img011.PNG)  
+![频谱图12](/asset/explog/xe/img012.PNG)  
+![频谱图34](/asset/explog/xe/img013.PNG)  
+![音高图](/asset/explog/xe/img014.PNG)
+
+4. 频率分析
+![频率分析图 线性](/asset/explog/xe/img015.PNG)
+![频率分析图 对数](/asset/explog/xe/img016.PNG)
+![频率分析图 对数C3](/asset/explog/xe/img017.PNG)
+![频率分析图 对数D3](/asset/explog/xe/img018.PNG)
+![频率分析图 对数G3](/asset/explog/xe/img019.PNG)
+![频率分析图 对数A2](/asset/explog/xe/img020.PNG)
+![频率分析图 对数C3与G3](/asset/explog/xe/img021.PNG)
+![频率分析图 对数C3与D3](/asset/explog/xe/img022.PNG)
+![频率分析图 对数C3与A2](/asset/explog/xe/img023.PNG)
+
+##### 反思与总结
+
+
 ### 实验结论
 
 ### 参考资料
