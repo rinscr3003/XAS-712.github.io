@@ -50,6 +50,32 @@
 ![频率分析图 对数C3与A2](/asset/explog/xe/img023.PNG)
 
 ##### 反思与总结
+1. 实验的音频跨度不够大，应扩展C2、C4与C5进行合成实验
+
+#### 第三次实验
+1. 用V4 Editor生成一段YANHE的声音（参数见图，未呈现者为默认）
+![合成设定](/asset/explog/xe/img024.PNG)
+
+2. 导入Audition CC删除前后空白并标准化
+![删空白并标准化](/asset/explog/xe/img025.PNG)
+
+3. 转到频谱图
+![频谱图](/asset/explog/xe/img026.PNG)  
+![频谱图5](/asset/explog/xe/img027.PNG)  
+
+4. 频率分析
+![频率分析图 线性](/asset/explog/xe/img028.PNG)
+![频率分析图 对数](/asset/explog/xe/img029.PNG)
+![频率分析图 对数C3](/asset/explog/xe/img017.PNG)
+![频率分析图 对数C2](/asset/explog/xe/img031.PNG)
+![频率分析图 对数C4](/asset/explog/xe/img032.PNG)
+![频率分析图 对数C5](/asset/explog/xe/img033.PNG)
+![频率分析图 对数C3与C2](/asset/explog/xe/img030.PNG)
+![频率分析图 对数C3与C4](/asset/explog/xe/img034.PNG)
+![频率分析图 对数C3与C5](/asset/explog/xe/img035.PNG)
+![频率分析图 对数C4与C5](/asset/explog/xe/img036.PNG)
+
+##### 反思与总结
 
 
 ### 实验结论
