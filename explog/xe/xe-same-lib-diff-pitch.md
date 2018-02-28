@@ -73,25 +73,25 @@
 ![频谱图5](/asset/explog/xe/img027.PNG)  
 
 4. 频率分析
-频率分析图 线性
+频率分析图 线性  
 ![频率分析图 线性](/asset/explog/xe/img028.PNG)
-频率分析图 对数
+频率分析图 对数  
 ![频率分析图 对数](/asset/explog/xe/img029.PNG)
-频率分析图 对数C3
+频率分析图 对数C3  
 ![频率分析图 对数C3](/asset/explog/xe/img017.PNG)
-频率分析图 对数C2
+频率分析图 对数C2  
 ![频率分析图 对数C2](/asset/explog/xe/img031.PNG)
-频率分析图 对数C4
+频率分析图 对数C4  
 ![频率分析图 对数C4](/asset/explog/xe/img032.PNG)
-频率分析图 对数C5
+频率分析图 对数C5  
 ![频率分析图 对数C5](/asset/explog/xe/img033.PNG)
-频率分析图 对数C3与C2
+频率分析图 对数C3与C2  
 ![频率分析图 对数C3与C2](/asset/explog/xe/img030.PNG)
-频率分析图 对数C3与C4
+频率分析图 对数C3与C4  
 ![频率分析图 对数C3与C4](/asset/explog/xe/img034.PNG)
-频率分析图 对数C3与C5
+频率分析图 对数C3与C5  
 ![频率分析图 对数C3与C5](/asset/explog/xe/img035.PNG)
-频率分析图 对数C4与C5
+频率分析图 对数C4与C5  
 ![频率分析图 对数C4与C5](/asset/explog/xe/img036.PNG)
 
 ##### 反思与总结
